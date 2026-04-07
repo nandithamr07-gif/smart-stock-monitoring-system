@@ -1,4 +1,4 @@
-#  Smart Shelf Monitoring System
+#  Smart Stock Monitoring System
 
 An IoT-based smart retail solution that monitors product stock in real-time using weight sensing and sends alerts when stock is low.
 
@@ -6,7 +6,7 @@ An IoT-based smart retail solution that monitors product stock in real-time usin
 
 ##  Project Overview
 
-The Smart Shelf Monitoring System is designed to automate inventory tracking in retail stores.
+The Smart Stock Monitoring System is designed to automate inventory tracking in retail stores.
 It uses a load cell to continuously measure product weight and an ESP32 to process data and send notifications via the Blynk app.
 
 ---
